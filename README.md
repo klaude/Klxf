@@ -2,7 +2,7 @@ Klxf - an xfwm4 theme
 =====================
 Klxf is a simple xfwm4 theme, based heavily on the built-in *Next* theme. It is designed be concise, yet functional.
 
-[![screenshot](screenshot.png)](#screenshot)
+[![screenshot](https://raw.github.com/klaude/Klxf/master/screenshot.png)](#screenshot)
 
 Installation
 ------------
